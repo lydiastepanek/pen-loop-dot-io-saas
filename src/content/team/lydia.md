@@ -1,7 +1,8 @@
 ---
 draft: false
 name: "Lydia"
-title: "Chief Sales Officer"
+title: "Head of GTM"
+subtitle: "Lydia is a serial entrepreneur who started Pen Loop as a bootstrapped alternative to VC funding — hoping to solve real problems for organizations and bring technical solutions to companies in need at a reasonable price point."
 avatar:
   {
     src: "/lydia.jpeg",

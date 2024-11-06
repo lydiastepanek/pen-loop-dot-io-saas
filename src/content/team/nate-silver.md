@@ -1,7 +1,8 @@
 ---
 draft: false
 name: "Nate"
-title: "Software Engineer"
+title: "Product Manager"
+subtitle: "Nate helped grow a small startup into a 7,000-employee global life sciences partner over the course of six years. He brings technical know-how and boots-on-the-ground experience about how to get software up and running quickly."
 avatar:
   {
     src: "/nate.jpg",

@@ -59,6 +59,9 @@ const publishedTeamMembers = await getCollection("team", ({ data }) => {
               <h3 class="text-sm text-slate-500">
                 {teamMemberEntry.data.title}
               </h3>
+              <p class="mt-4 text-sm text-slate-700 max-w-xs">
+                {teamMemberEntry.data.subtitle}
+              </p>
             </div>
           </div>
         ))
