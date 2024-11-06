@@ -25,37 +25,33 @@ const footermenu = {
   ],
   product: [
     {
-      title: "For Startups",
+      title: "SaaS App Development",
       path: "#",
     },
     {
-      title: "Features",
+      title: "Web App Development",
       path: "#",
     },
     {
-      title: "Pricing",
+      title: "Custom Software",
       path: "/pricing",
-    },
-    {
-      title: "Integrations",
-      path: "#",
     },
   ],
   resources: [
     {
-      title: "Help Center",
+      title: "Node.js",
       path: "#",
     },
     {
-      title: "Guides",
+      title: "React",
       path: "#",
     },
     {
-      title: "Documentation",
+      title: "WordPress",
       path: "#",
     },
     {
-      title: "Uptime Status",
+      title: "AWS",
       path: "#",
     },
   ],
@@ -93,21 +89,9 @@ const footermenu = {
           </span>
       </div>
       <div>
-        <h3 class="font-medium text-sm text-slate-800">Company</h3>
-        <div class="flex flex-col mt-3">
-          {
-            footermenu.company.map((item) => (
-              <a
-                href={item.path || "#"}
-                class="py-2 text-sm text-slate-600 hover:text-indigo-600">
-                {item.title}
-              </a>
-            ))
-          }
-        </div>
       </div>
       <div>
-        <h3 class="font-medium text-sm text-slate-800">Product</h3>
+        <h3 class="font-medium text-sm text-slate-800">Services</h3>
         <div class="flex flex-col mt-3">
           {
             footermenu.product.map((item) => (
@@ -121,7 +105,7 @@ const footermenu = {
         </div>
       </div>
       <div>
-        <h3 class="font-medium text-sm text-slate-800">Resources</h3>
+        <h3 class="font-medium text-sm text-slate-800">Technologies</h3>
         <div class="flex flex-col mt-3">
           {
             footermenu.resources.map((item) => (
