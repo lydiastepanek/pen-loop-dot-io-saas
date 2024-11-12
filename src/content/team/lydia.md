@@ -1,8 +1,8 @@
 ---
 draft: false
 name: "Lydia"
-title: "Head of GTM"
-subtitle: "Lydia is a serial entrepreneur who started Pen Loop as a bootstrapped alternative to VC funding — hoping to solve real problems for organizations and bring technical solutions to companies in need at a reasonable price point."
+title: "Founder"
+subtitle: "Lydia is a seasoned entrepreneur who founded Pen Loop as a self-funded alternative to venture capital, with the goal of addressing real challenges for organizations. In addition to her work, she manages a cybersecurity blog and has developed several free anti-phishing tools."
 avatar:
   {
     src: "/lydia.jpeg",
