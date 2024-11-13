@@ -3,7 +3,7 @@ import Badge from "@components/ui/badge.astro";
 import { Picture } from "astro:assets";
 import FeatureImg1 from "../assets/features/6.png";
 import FeatureImg2 from "../assets/features/2.png";
-import FeatureImg7 from "../assets/features/7.png";
+import FeatureImg7 from "../assets/features/meeting.gif";
 import { Icon } from "astro-icon/components";
 import Link from "@components/ui/link.astro";
 
@@ -25,11 +25,10 @@ const { nomargin } = Astro.props;
 </div>
 
 <div class="grid md:grid-cols-2 py-10">
-  <div class="grid place-items-center">
+  <div class="grid place-items-center py-10">
     <Picture
       src={FeatureImg7}
       alt="Feature Image"
-      formats={["avif", "webp"]}
       loading="lazy"
     />
   </div>

@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f20e686-db05-430b-8a04-e0eb81247957" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/content/team/lydia.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/team/lydia.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/feature-alt.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/feature-alt.astro" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
